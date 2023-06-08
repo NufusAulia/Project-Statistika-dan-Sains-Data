@@ -3,7 +3,7 @@
 
 # In[1]:
 
-
+pip install -U scikit-learn
 import pickle
 import streamlit as st
 from sklearn.feature_extraction.text import TfidfVectorizer
